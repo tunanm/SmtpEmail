@@ -1,0 +1,6 @@
+@SmtpEmailDemo_HostAddress = http://localhost:5021
+
+GET {{SmtpEmailDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
